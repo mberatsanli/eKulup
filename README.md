@@ -31,4 +31,4 @@ Kulüplerin üniversite içindeki öğrencilere ulaşması zordur. Bu yüzden E-
   
   
   
-###### E-Kulüp fikri şahsıma aittir. (Kasım 2018 tarihinde fikir olarak hayata geçmiş, Temmuz 2019 tarihinden itibaren ise koda dökülmüştür.)
+###### E-Kulüp fikri şahsıma aittir. (Kasım 2018 tarihinde fikir olarak hayata geçmiş, Mayıs 2019 tarihinden itibaren ise koda dökülmüştür.)
