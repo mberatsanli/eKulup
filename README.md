@@ -1,4 +1,4 @@
-# eKulup
+# E-Kulüp
 Kulüplerin tüm paylaşımlarının ve etkinliklerinin web üstüne taşınması
 
 #### E-Kulüp (1.0.0-Beta)
@@ -22,7 +22,7 @@ Kulüplerin üniversite içindeki öğrencilere ulaşması zordur. Bu yüzden E-
   - Duyuru,
   - Resim & Video paylaşabilirler.
   
-##### Öğrenciler E-Kulüğ üstünden;
+##### Öğrenciler E-Kulüp üstünden;
   - Kulüpleri takip edebilirler,
   - Etkinliklere tek bir tıkla kayıt olabilirler,
   - Toplantılar hakkında bilgiye sahip olabilirler,
